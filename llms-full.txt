@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Adelaide
+
+> Geotechnical engineering services in Adelaide, Australia.
+
+## Services
+- [Anchors](https://adelaide.geotechnicalengineering1.co/anchors/)
+- [Atterberg Limits](https://adelaide.geotechnicalengineering1.co/atterberg-limits/)
+- [Cbr Road](https://adelaide.geotechnicalengineering1.co/cbr-road/)
+- [Cpt Test](https://adelaide.geotechnicalengineering1.co/cpt-test/)
+- [Deep Excavations](https://adelaide.geotechnicalengineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://adelaide.geotechnicalengineering1.co/excavation-monitoring/)
+- [Excavations](https://adelaide.geotechnicalengineering1.co/excavations/)
+- [Flexible Pavement](https://adelaide.geotechnicalengineering1.co/flexible-pavement/)
+- [Footings](https://adelaide.geotechnicalengineering1.co/footings/)
+- [Foundations](https://adelaide.geotechnicalengineering1.co/foundations/)
+- [Grain Size](https://adelaide.geotechnicalengineering1.co/grain-size/)
+- [Ground Improvement](https://adelaide.geotechnicalengineering1.co/ground-improvement/)
+- [Grouting](https://adelaide.geotechnicalengineering1.co/grouting/)
+- [In Situ Permeability](https://adelaide.geotechnicalengineering1.co/in-situ-permeability/)
+- [Investigation](https://adelaide.geotechnicalengineering1.co/investigation/)
+- [Lab In Situ](https://adelaide.geotechnicalengineering1.co/lab-in-situ/)
+- [Laboratory](https://adelaide.geotechnicalengineering1.co/laboratory/)
+- [Liquefaction](https://adelaide.geotechnicalengineering1.co/liquefaction/)
+- [Masw](https://adelaide.geotechnicalengineering1.co/masw/)
+- [Mat Foundations](https://adelaide.geotechnicalengineering1.co/mat-foundations/)
+- [Piles](https://adelaide.geotechnicalengineering1.co/piles/)
+- [Proctor Tests](https://adelaide.geotechnicalengineering1.co/proctor-tests/)
+- [Resistivity](https://adelaide.geotechnicalengineering1.co/resistivity/)
+- [Retaining Walls](https://adelaide.geotechnicalengineering1.co/retaining-walls/)
+- [Rigid Pavement](https://adelaide.geotechnicalengineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://adelaide.geotechnicalengineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://adelaide.geotechnicalengineering1.co/sand-cone-density/)
+- [Seismic](https://adelaide.geotechnicalengineering1.co/seismic/)
+- [Seismic Isolation](https://adelaide.geotechnicalengineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://adelaide.geotechnicalengineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://adelaide.geotechnicalengineering1.co/seismic-refraction/)
+- [Slope Stability](https://adelaide.geotechnicalengineering1.co/slope-stability/)
+- [Slopes](https://adelaide.geotechnicalengineering1.co/slopes/)
+- [Soft Ground Tunnels](https://adelaide.geotechnicalengineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://adelaide.geotechnicalengineering1.co/spt-drilling/)
+- [Stone Columns](https://adelaide.geotechnicalengineering1.co/stone-columns/)
+- [Test Pits](https://adelaide.geotechnicalengineering1.co/test-pits/)
+- [Triaxial](https://adelaide.geotechnicalengineering1.co/triaxial/)
+- [Vibrocompaction](https://adelaide.geotechnicalengineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://adelaide.geotechnicalengineering1.co/
+
+## About
+This site provides geotechnical engineering services in Adelaide, Australia.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
